@@ -27,20 +27,16 @@
   </samp>
 </div>
 
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
+-----
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+    <p align="center">
+    </br>
   <a href="https://github.com/hutanmihai" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=hutanmihai&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
- </samp>
-</div>
-  
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
       <br/>
             <p align="center">
         <a href="https://github.com/hutanmihai/">
