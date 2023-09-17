@@ -42,7 +42,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,sqlite,js,ts,html,css,angular,react,tailwind,nodejs,cs,dotnet,java,latex,md,regex,docker,postman,tensorflow,pytorch,idea,git,github,githubactions,gitlab&perline=10"  alt="languages&tools"/>
   </a>
-</p>
+  </p>
 </div>
 
 -----
