@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/hutanmihai/hutanmihai/blob/main/waving.gif" alt="hutanmihai">, I'm Mihai</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 👨🏽‍🎓 I am a dedicated final-year 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 student at the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗕𝘂𝗰𝗵𝗮𝗿𝗲𝘀𝘁, 𝗥𝗼𝗺𝗮𝗻𝗶𝗮, with a passion for
+- 👨🏽‍🎓 I am a dedicated graduate 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 student at the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗕𝘂𝗰𝗵𝗮𝗿𝗲𝘀𝘁, 𝗥𝗼𝗺𝗮𝗻𝗶𝗮, with a passion for
   programming and a keen interest in 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 and 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 
 - 🔮 Throughout my academic journey, I've honed my skills in various facets of computer science, positioning myself to
